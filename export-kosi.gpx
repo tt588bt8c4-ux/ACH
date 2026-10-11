@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://mapy.cz/">
+	<trk>
+		<name>Trasa z Horská do 50.653084N, 15.748726E</name>
+		<trkseg>
+			<trkpt lat="50.651260" lon="15.748590">
+				<ele>1279.000000</ele>
+			</trkpt>
+			<trkpt lat="50.651278" lon="15.748590">
+				<ele>1279.000000</ele>
+			</trkpt>
+			<trkpt lat="50.651391" lon="15.748608">
+				<ele>1279.000000</ele>
+			</trkpt>
+			<trkpt lat="50.651870" lon="15.748707">
+				<ele>1280.000000</ele>
+			</trkpt>
+			<trkpt lat="50.652240" lon="15.748797">
+				<ele>1279.000000</ele>
+			</trkpt>
+			<trkpt lat="50.652336" lon="15.748824">
+				<ele>1278.000000</ele>
+			</trkpt>
+			<trkpt lat="50.652416" lon="15.748824">
+				<ele>1278.000000</ele>
+			</trkpt>
+			<trkpt lat="50.652491" lon="15.748814">
+				<ele>1278.000000</ele>
+			</trkpt>
+			<trkpt lat="50.652599" lon="15.748770">
+				<ele>1278.000000</ele>
+			</trkpt>
+			<trkpt lat="50.653060" lon="15.748590">
+				<ele>1277.000000</ele>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
+

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx creator="mapy.cz" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <trk>
+        <name></name>
+        <trkseg>
+            <trkpt lat="50.63145808875561" lon="15.791143476963043">
+                <ele>647</ele>
+                <name>50.631458N, 15.791143W</name>
+            </trkpt>
+            <trkpt lat="50.63138969242573" lon="15.791358053684235">
+                <ele>646</ele>
+                <name>50.631390N, 15.791358W</name>
+            </trkpt>
+            <trkpt lat="50.63115030527115" lon="15.792103707790375">
+                <ele>644</ele>
+                <name>50.631150N, 15.792104W</name>
+            </trkpt>
+            <trkpt lat="50.631036311388016" lon="15.792518109083176">
+                <ele>644</ele>
+                <name>50.631036N, 15.792518W</name>
+            </trkpt>
+            <trkpt lat="50.63099071383476" lon="15.792724639177322">
+                <ele>644</ele>
+                <name>50.630991N, 15.792725W</name>
+            </trkpt>
+            <trkpt lat="50.63096188008785" lon="15.792921781539917">
+                <ele>645</ele>
+                <name>50.630962N, 15.792922W</name>
+            </trkpt>
+            <trkpt lat="50.63096188008785" lon="15.793065279722214">
+                <ele>645</ele>
+                <name>50.630962N, 15.793065W</name>
+            </trkpt>
+            <trkpt lat="50.63097931444645" lon="15.793191343545914">
+                <ele>645</ele>
+                <name>50.630979N, 15.793191W</name>
+            </trkpt>
+            <trkpt lat="50.631007477641106" lon="15.793281197547913">
+                <ele>646</ele>
+                <name>50.631007N, 15.793281W</name>
+            </trkpt>
+            <trkpt lat="50.631075873970985" lon="15.793407261371613">
+                <ele>646</ele>
+                <name>50.631076N, 15.793407W</name>
+            </trkpt>
+            <trkpt lat="50.63142389059067" lon="15.793936997652054">
+                <ele>645</ele>
+                <name>50.631424N, 15.793937W</name>
+            </trkpt>
+            <trkpt lat="50.631520450115204" lon="15.79408049583435">
+                <ele>644</ele>
+                <name>50.631520N, 15.794080W</name>
+            </trkpt>
+            <trkpt lat="50.63162907958031" lon="15.794277638196945">
+                <ele>644</ele>
+                <name>50.631629N, 15.794278W</name>
+            </trkpt>
+            <trkpt lat="50.6316914409399" lon="15.794430524110794">
+                <ele>644</ele>
+                <name>50.631691N, 15.794431W</name>
+            </trkpt>
+            <trkpt lat="50.631834268569946" lon="15.794862359762192">
+                <ele>643</ele>
+                <name>50.631834N, 15.794862W</name>
+            </trkpt>
+            <trkpt lat="50.631902664899826" lon="15.795131921768188">
+                <ele>643</ele>
+                <name>50.631903N, 15.795132W</name>
+            </trkpt>
+            <trkpt lat="50.63194826245308" lon="15.795401483774185">
+                <ele>642</ele>
+                <name>50.631948N, 15.795401W</name>
+            </trkpt>
+            <trkpt lat="50.63195966184139" lon="15.795671045780182">
+                <ele>642</ele>
+                <name>50.631960N, 15.795671W</name>
+            </trkpt>
+            <trkpt lat="50.631971061229706" lon="15.795742124319077">
+                <ele>642</ele>
+                <name>50.631971N, 15.795742W</name>
+            </trkpt>
+            <trkpt lat="50.63198782503605" lon="15.795814543962479">
+                <ele>642</ele>
+                <name>50.631988N, 15.795815W</name>
+            </trkpt>
+            <trkpt lat="50.632005259394646" lon="15.795868188142776">
+                <ele>642</ele>
+                <name>50.632005N, 15.795868W</name>
+            </trkpt>
+            <trkpt lat="50.63203878700733" lon="15.795912444591522">
+                <ele>642</ele>
+                <name>50.632039N, 15.795912W</name>
+            </trkpt>
+            <trkpt lat="50.63185103237629" lon="15.795967429876328">
+                <ele>640</ele>
+                <name>50.631851N, 15.795967W</name>
+            </trkpt>
+            <trkpt lat="50.631805434823036" lon="15.795994251966476">
+                <ele>639</ele>
+                <name>50.631805N, 15.795994W</name>
+            </trkpt>
+            <trkpt lat="50.631771236658096" lon="15.796030461788177">
+                <ele>638</ele>
+                <name>50.631771N, 15.796030W</name>
+            </trkpt>
+            <trkpt lat="50.63172563910484" lon="15.79609215259552">
+                <ele>638</ele>
+                <name>50.631726N, 15.796092W</name>
+            </trkpt>
+            <trkpt lat="50.63168607652187" lon="15.79615518450737">
+                <ele>637</ele>
+                <name>50.631686N, 15.796155W</name>
+            </trkpt>
+            <trkpt lat="50.631651878356934" lon="15.796271860599518">
+                <ele>636</ele>
+                <name>50.631652N, 15.796272W</name>
+            </trkpt>
+            <trkpt lat="50.63163444399834" lon="15.796371102333069">
+                <ele>636</ele>
+                <name>50.631634N, 15.796371W</name>
+            </trkpt>
+            <trkpt lat="50.63156068325043" lon="15.796793550252914">
+                <ele>635</ele>
+                <name>50.631561N, 15.796794W</name>
+            </trkpt>
+            <trkpt lat="50.63150368630886" lon="15.79721599817276">
+                <ele>633</ele>
+                <name>50.631504N, 15.797216W</name>
+            </trkpt>
+            <trkpt lat="50.63146948814392" lon="15.79761028289795">
+                <ele>632</ele>
+                <name>50.631469N, 15.797610W</name>
+            </trkpt>
+            <trkpt lat="50.631412491202354" lon="15.798401534557343">
+                <ele>631</ele>
+                <name>50.631412N, 15.798402W</name>
+            </trkpt>
+            <trkpt lat="50.63137225806713" lon="15.79886019229889">
+                <ele>630</ele>
+                <name>50.631372N, 15.798860W</name>
+            </trkpt>
+            <trkpt lat="50.631275698542595" lon="15.799856632947922">
+                <ele>624</ele>
+                <name>50.631276N, 15.799857W</name>
+            </trkpt>
+            <trkpt lat="50.63123546540737" lon="15.800521820783615">
+                <ele>619</ele>
+                <name>50.631235N, 15.800522W</name>
+            </trkpt>
+            <trkpt lat="50.63122406601906" lon="15.800835639238358">
+                <ele>615</ele>
+                <name>50.631224N, 15.800836W</name>
+            </trkpt>
+            <trkpt lat="50.63122406601906" lon="15.801114588975906">
+                <ele>613</ele>
+                <name>50.631224N, 15.801115W</name>
+            </trkpt>
+            <trkpt lat="50.63123010098934" lon="15.8014015853405">
+                <ele>612</ele>
+                <name>50.631230N, 15.801402W</name>
+            </trkpt>
+            <trkpt lat="50.63126429915428" lon="15.801806598901749">
+                <ele>611</ele>
+                <name>50.631264N, 15.801807W</name>
+            </trkpt>
+            <trkpt lat="50.63126966357231" lon="15.801904499530792">
+                <ele>611</ele>
+                <name>50.631270N, 15.801904W</name>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>
